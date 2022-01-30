@@ -1,0 +1,6 @@
+my preferences:
+        favourite movie: Badlands
+        favourite TV Show: Chernobyl
+        favourite food: Grecha
+        favourite season: Summer
+        country want to visit: England

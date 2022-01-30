@@ -1,0 +1,11 @@
+skills:
+        Terminal Linux
+        GitHub
+        Theory of testing
+        GoogleTables
+        Postman
+        SQL
+        AndroidStudio
+        Python
+        Jmeter
+        Charles
